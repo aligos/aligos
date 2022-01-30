@@ -1,6 +1,6 @@
 # Rahmat (aligos)
 
-<img src="aligos-nobg.png" alt="aligos" width="200"/>
+<img src="https://github.com/aligos/aligos/blob/main/aligos-nobg.png" alt="aligos" width="200"/>
 
 [GitHub](https://github.com/aligos) | [LinkedIn](https://www.linkedin.com/in/rahmat-aligos-10658888/) | [Blog](https://ge.rahmat.id)
 
