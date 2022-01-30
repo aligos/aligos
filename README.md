@@ -1,5 +1,7 @@
 # Rahmat (aligos)
 
+![Aligos Photo](./aligos-nobg.png)
+
 [GitHub](https://github.com/aligos) | [LinkedIn](https://www.linkedin.com/in/rahmat-aligos-10658888/) | [Blog](https://ge.rahmat.id)
 
 
