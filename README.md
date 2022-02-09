@@ -1,1 +1,1 @@
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FYLKJqBciWJEbqcNNleSC4V%2FCV-Design%3Fpage-id%3D0%253A1%26node-id%3D0%253A4%26viewport%3D451%252C48%252C1%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+[https://www.figma.com/proto/YLKJqBciWJEbqcNNleSC4V/CV-Design?page-id=0%3A1&node-id=0%3A4&viewport=451%2C48%2C1&scaling=min-zoom](CV in Figma)
